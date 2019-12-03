@@ -1,5 +1,5 @@
-# junos-routestat-exporter
-Prometheus exporter for route tables statistics from JunOS devices.
+# Routing-tables statistics exporter
+Prometheus exporter for routing-tables statistics from JunOS devices.
 Netconf ssh service on standart port(830) must be enabled on target device.
 
 ### Runnig exporter as a Flask application:
